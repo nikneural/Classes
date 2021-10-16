@@ -66,22 +66,3 @@ if __name__ == "__main__":
     alexander.earn_money(20000)
     alexander.buy_house(small_house, 5)
     alexander.info()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
